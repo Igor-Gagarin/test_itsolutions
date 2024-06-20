@@ -1,0 +1,3 @@
+numpy
+opecv-python
+Django
